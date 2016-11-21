@@ -1,4 +1,4 @@
-A simple IPython kernel for Pike
+A simple IPython kernel for the `Pike programming language <http://pike.lysator.liu.se>`_.
 
 This requires IPython 3.
 
